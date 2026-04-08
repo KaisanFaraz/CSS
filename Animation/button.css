@@ -1,0 +1,19 @@
+.click{
+    height: 25px;
+    width: 100px;
+    background-color:aquamarine;
+    border: 2px solid black;
+    border-radius: 10px;
+    transition: all 0.4s ease-in-out 0s;
+   
+    
+
+}
+.click:hover{
+    height: 30px;
+    width: 120px;
+    background-color:burlywood
+}
+.click:active{
+    background-color: brown;
+}
